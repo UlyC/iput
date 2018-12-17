@@ -1,4 +1,5 @@
 import React from 'react';
+import PropTypes from 'prop-types';
 import './style.css';
 
 /**
@@ -52,10 +53,10 @@ class IPut extends React.Component {
    * set prop type
    */
   static propTypes = {
-    className: React.PropTypes.string,
-    defaultValue: React.PropTypes.string || React.PropTypes.array,
-    isError: React.PropTypes.func,
-    onChange: React.PropTypes.func
+    className: PropTypes.string,
+    defaultValue: PropTypes.string || PropTypes.array,
+    isError: PropTypes.func,
+    onChange: PropTypes.func
   }
   /**
    * default state value
