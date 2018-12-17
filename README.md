@@ -7,7 +7,7 @@ ip input component for react(>=0.14).
 
 ### Usage
 ### install
-`npm install https://github.com/UlyC/iput --save`
+`npm install https://github.com/UlyC/iput.git --save`
 
 #### basic Usage
 
