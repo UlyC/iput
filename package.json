@@ -16,13 +16,13 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lizheming/iput.git"
+    "url": "https://github.com/UlyC/iput.git"
   },
   "bugs": {
-    "url": "https://github.com/lizheming/iput/issues"
+    "url": "https://github.com/UlyC/iput.git/issues"
   },
-  "homepage": "https://github.com/lizheming/iput#readme",
-  "author": "lizheming",
+  "homepage": "https://github.com/UlyC/iput.git#readme",
+  "author": "lizheming//UlyC",
   "license": "ISC",
   "devDependencies": {
     "babel-core": "^6.2.1",
